@@ -1,0 +1,103 @@
+[
+    {
+      "id": 10,
+      "title": "Doctor Strange",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "year": 2022,
+      "cast": ["Benedict Cumberbatch","Elizabeth Olsen","Chiwetel Ejiofor","Benedict Wong"],
+      "rating":"4 star",
+      "Description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary."
+     
+    },
+    {
+      "id": 11,
+      "title": "The Lost City",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "year": 2022,
+      "cast": ["Sandra Bullock","Channing Tatum","Brad Pitt","Daniel Radcliffe"],
+      "rating":"3 start",
+      "Description": "A reclusive romance novelist was sure nothing could be worse than getting stuck on a book tour with her cover model until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions."
+     
+    },
+    {
+      "id": 12,
+      "title": "Memory ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/QaNLpq3Wuu2yp5ESsXYcQCOpUk.jpg",
+      "year": 2022,
+      "cast": ["Sandra Bullock","Channing Tatum","Brad Pitt","Daniel Radcliffe"],
+      "rating":"3 start",
+      "Description": "A reclusive romance novelist was sure nothing could be worse than getting stuck on a book tour with her cover model until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions."
+     
+    },
+    {
+      "id": 13,
+      "title": "Wild Card  ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zN80Tlly8oMpKbVJv2TfRIj8dHG.jpg",
+      "year": 2015,
+      "cast": ["Jason Statham","Dominik Garcia","Michael Angarano"],
+      "rating":" star",
+      "Description": "When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it's all or nothing."
+     
+    },
+    {
+      "id": 14,
+      "title": "The Grey ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg",
+      "year": 2012,
+      "cast": ["Liam Neeson","Dermot Mulroney","Dallas Roberts"],
+      "rating":"2 star",
+      "Description": "Following a grueling five-week shift at an Alaskan oil refinery, workers led by sharpshooter John Ottway, are flying home for a much-needed vacation.."
+     
+    },
+    {
+      "id": 15,
+      "title": "Guilt  ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bDUcthW9hh4kA4XDi4muJk4DJZc.jpg",
+      "year": 2022,
+      "cast": ["Manuela Vellés","Luis Hostalot","Andrés Gertrúdix"],
+      "rating":"3 start",
+      "Description": "After being sexually assaulted by an acquainted and incapable of dealing with the situation, a woman leaves her whole life behind and hides herself away in an isolated cabin in the mountains."
+     
+    },
+    {
+      "id": 16,
+      "title": "The Bride   ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uyoXnjqwY5ay8SPqXqyFgIF8RVO.jpg",
+      "year": 2015,
+      "cast": ["Inma Cuesta","Leticia Dolera","Andrés Gertrúdix"],
+      "rating":"4 star",
+      "Description": "Based on the famous play Bodas de sangre (Blood Wedding) by Federico García Lorca, La novia tells the story of a passionate love triangle. A bride leaves her groom, no longer able to withstand the surging desires of her lover, Leonordo."
+     
+    },
+    {
+      "id": 17,
+      "title": "The Godfather",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "year": 1972,
+      "cast": ["Marlon Brando","Al Pacino","James Caan"],
+      "rating":"4 star",
+      "Description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+     
+    },
+    {
+      "id": 18,
+      "title": "Parasite ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pAjExpwZRibYxkRadqd3WdpsLB.jpg",
+      "year": 2019,
+      "cast": ["Song Kang-ho","Cho Yeo-jeong","Park So-dam"],
+      "rating":"4 star",
+      "Description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident."
+     
+    },
+    {
+      "id": 19,
+      "title": "The Priests ",
+      "img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mcgvjr9Sb3niTOStwFKWBlPBbyn.jpg",
+      "year": 2015,
+      "cast": ["Kim Yoon-seok","Gang Dong-won","Park So-dam"],
+      "rating":"3 start",
+      "Description": "To save a girl in danger, a priest and deacon jump into a mysterious case."
+     
+    }
+    
+  ]
